@@ -1,7 +1,8 @@
-ferdousislam899.github.io
-│
+my-website/
 ├── index.html
 ├── style.css
-│
-└── images
-    └── profile.jpg
+└── images/
+    ├── profile.jpg
+    ├── banner.jpg
+    ├── service1.jpg
+    └── logo.png
