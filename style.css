@@ -557,3 +557,26 @@ footer p {
     object-fit: contain;
     display: block;
 }
+.project-image {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+.project-image {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
